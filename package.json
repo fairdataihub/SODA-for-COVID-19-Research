@@ -79,7 +79,7 @@
     "lodash": "4.17.21",
     "marked": "4.3.0",
     "mousetrap": "1.6.5",
-    "nanoid": "4.0.2",
+    "nanoid": "5.0.9",
     "pinia": "2.2.0",
     "ps-tree": "1.2.0",
     "semver": "7.6.3",
