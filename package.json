@@ -62,7 +62,7 @@
     "@headlessui/vue": "1.6.0",
     "@kangc/v-md-editor": "2.3.18",
     "axios": "1.7.2",
-    "core-js": "3.35.0",
+    "core-js": "3.40.0",
     "crypto-js": "4.2.0",
     "dayjs": "1.11.12",
     "doi-regex": "0.1.17",
