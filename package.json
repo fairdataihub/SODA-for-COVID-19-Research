@@ -74,7 +74,7 @@
     "fs-extra": "10.1.0",
     "gsap": "3.12.5",
     "humanparser": "2.7.0",
-    "katex": "0.16.11",
+    "katex": "0.16.21",
     "klaw-sync": "6.0.0",
     "lodash": "4.17.21",
     "marked": "4.3.0",
