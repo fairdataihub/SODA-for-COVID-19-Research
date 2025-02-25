@@ -142,7 +142,7 @@
     "lint-staged": "13.3.0",
     "megasanjay-devmoji": "1.2.1",
     "postcss": "8.4.40",
-    "prettier": "2.8.8",
+    "prettier": "3.5.2",
     "prettier-plugin-tailwindcss": "0.6.5",
     "pretty": "2.0.0",
     "run-script-os": "1.1.6",
